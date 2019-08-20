@@ -8,21 +8,16 @@ Added
 
 Initial version
 
-------
-
 1.0.1 - 01-04-2019
 
 Crashes in SDK
 
-Fixed crash on com.multisafepay.views.MSPTextView.escape 
-Fixed crash on com.multisafepay.sdk.CardGatewayActivity.onCreate
-fixed crash on com.multisafepay.customfields.AutoCompleteTextCustomField.showDialog
-
-------
+Fixed crash on com.multisafepay.views.MSPTextView.escape Fixed crash on com.multisafepay.sdk.CardGatewayActivity.onCreate fixed crash on com.multisafepay.customfields.AutoCompleteTextCustomField.showDialog
 
 1.0.2 - 16-05-2019
 
-Updated documentation
-Updated gradle dependencies
+Updated documentation Updated gradle dependencies
 
+1.0.3 - 15-10-2019
 
+Fix issues related to checkout process. Callback if error now shows message.
