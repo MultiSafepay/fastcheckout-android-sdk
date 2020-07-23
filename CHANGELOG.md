@@ -27,7 +27,15 @@ Fix issues related to checkout process. Callback if error now shows message.
 Set default environment to LIVE.
 
 
-1.0.4 - 23-07-2020
+1.0.5 - 23-07-2020
 
 Added timeout callback + added fixes for changes in API. Fixed error in adding addresses to some countries in customs fields.
+
+1.0.6 - 8-02-2021
+
+Small fixes, improvements, and updated dependencies.
+
+1.0.7 - 8-02-2021
+
+Removed camera permissions from SDK.
 
