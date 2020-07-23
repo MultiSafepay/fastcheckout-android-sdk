@@ -26,6 +26,8 @@ Fix issues related to checkout process. Callback if error now shows message.
 
 Set default environment to LIVE.
 
+
 1.0.4 - 23-07-2020
 
 Added timeout callback + added fixes for changes in API. Fixed error in adding addresses to some countries in customs fields.
+
