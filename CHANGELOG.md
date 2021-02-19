@@ -34,4 +34,3 @@ Added timeout callback + added fixes for changes in API. Fixed error in adding a
 1.0.6 - 8-02-2021
 
 Small fixes, improvements, and updated dependencies.
-
