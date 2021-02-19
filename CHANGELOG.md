@@ -35,3 +35,10 @@ Added timeout callback + added fixes for changes in API. Fixed error in adding a
 
 Small fixes, improvements, and updated dependencies.
 
+1.0.7 - 19-02-2021
+
+Improved the redirection on checkout, and other small fixes.
+
+1.0.8 - 25-02-2021
+
+Improved the redirect web view flow, and other small fixes.
