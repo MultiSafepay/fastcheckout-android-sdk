@@ -44,3 +44,6 @@ Improved the redirection on checkout, and other small fixes.
 
 Improved the redirect web view flow, and other small fixes.
 
+1.0.9 - 02-02-2022
+
+Removed Gift Card UI and logic from SDK, and other small fixes.
