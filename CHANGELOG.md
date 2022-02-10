@@ -47,3 +47,7 @@ Improved the redirect web view flow, and other small fixes.
 1.0.9 - 02-02-2022
 
 Removed Gift Card UI and logic, updated dependencies, and other small fixes.
+
+1.0.10 - 02-10-2022
+
+Fixed issue with ORDER NO SHIPPING ANONYMOUS transaction. 
